@@ -1,0 +1,5 @@
+Theme
+	TT DeepDark
+
+Extension
+	gContactSync
