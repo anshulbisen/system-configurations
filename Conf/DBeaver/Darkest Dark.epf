@@ -1,12 +1,12 @@
-#Tue Jan 26 22:19:50 IST 2021
+#Wed Feb 03 18:45:59 IST 2021
 \!/=
 /configuration/com.genuitec.eclipse.codetogether.ui/check.profile.iu=true
 /configuration/com.genuitec.eclipse.codetogether.ui/codetogether.main.view.displayed=true
-/configuration/com.genuitec.eclipse.monitor//webclipse/ideused/dayOfMonth=26
-/configuration/com.genuitec.eclipse.monitor//webclipse/ideused/month=0
+/configuration/com.genuitec.eclipse.monitor//webclipse/ideused/dayOfMonth=3
+/configuration/com.genuitec.eclipse.monitor//webclipse/ideused/month=1
 /configuration/com.genuitec.eclipse.monitor/ideused=1
 /configuration/com.genuitec.eclipse.theming.ui/showWelcomeDialog=false
-/configuration/com.genuitec.eclipse.webclipse.evergreen/devstyle.manifest.check.timestamp=1611665081231
+/configuration/com.genuitec.eclipse.webclipse.evergreen/devstyle.manifest.check.timestamp=1612358101422
 /configuration/com.genuitec.eclipse.webclipse.evergreen/manifest.devstyle.download.cache={"updates"\:{"release-version"\:"1.11.0.202012111554","eclipse-version"\:"[4.5.0,5.0.0)","release-notes"\:{"id"\:"ci20201211","delivery-log-url"\:"https\:\\/\\/www.genuitec.com\\/products\\/devstyle\\/deliverylog\\/","release-label"\:"CI 2020.12.11","updates"\:[{"heading"\:"General Fixes and Eclipse 2020-12","message"\:"This release picks up additional fixes for stability and compatibility with Eclipse 2020-12.","bullet"\:{"padding"\:"tiny","overlayicon"\:"ionicons\:ios-moon","color"\:"blue","overlayscale"\:"xlarge","icon"\:"fontawesome\:square","scale"\:"full","type"\:"overlayed","overlaycolor"\:"black","size"\:"32x32","position"\:"center"},"show-if"\:{"bundles"\:["com.genuitec.eclipse.theming.ui"]}}]},"eclipse-roots"\:[{"id"\:"com.genuitec.eclipse.theming.core.feature.feature.group","version"\:"1.11.0.202012111554"},{"id"\:"com.genuitec.eclipse.theming.feature.feature.group","version"\:"1.11.0.202012111554"},{"id"\:"com.genuitec.eclipse.theming.designer.feature.feature.group","version"\:"1.11.0.202012111554"}],"binary-roots"\:[],"repository-url"\:"http\:\\/\\/downloads.genuitec.com\\/downloads\\/products\\/devstyle\\/updates\\/ds20201211","check-interval"\:28800000,"notify-updated"\:14400000},"notifications"\:[],"notifications2"\:[]}
 /configuration/com.genuitec.eclipse.webclipse.evergreen/manifest.devstyle.download.etag="5fd3af2f-4b2"
 /configuration/com.genuitec.eclipse.webclipse.evergreen/manifest.devstyle.download.modified.date=Fri, 11 Dec 2020 17\:41\:03 GMT
@@ -360,7 +360,7 @@
 /instance/com.genuitec.eclipse.codetogether.ui/codetogether.show.editor.status.label=true
 /instance/com.genuitec.eclipse.codetogether.ui/codetogether.trust.all.ssl=false
 /instance/com.genuitec.eclipse.codetogether.ui/offer.on.selection=true
-/instance/com.genuitec.eclipse.monitor/last.upload.time=1611665082030
+/instance/com.genuitec.eclipse.monitor/last.upload.time=1612038265657
 /instance/com.genuitec.eclipse.sqlexplorer/overriddenByCSS=,sql_columns,sql_keyword,sql_multi_line_comment,sql_single_line_comment,sql_string,sql_table,sql_default,
 /instance/com.genuitec.eclipse.sqlexplorer/sql_columns=171,115,255
 /instance/com.genuitec.eclipse.sqlexplorer/sql_default=214,214,214
@@ -374,8 +374,8 @@
 /instance/com.genuitec.eclipse.theming.ui/configurationInstallLocation=/Applications/DBeaver.app/Contents/Eclipse/
 /instance/com.genuitec.eclipse.theming.ui/iconreplacement=false
 /instance/com.genuitec.eclipse.theming.ui/includeThemingInOomph=false
-/instance/com.genuitec.eclipse.theming.ui/last.download.attempt.time=1611670297696
-/instance/com.genuitec.eclipse.theming.ui/lastConfiguration=1611670295434
+/instance/com.genuitec.eclipse.theming.ui/last.download.attempt.time=1612358099540
+/instance/com.genuitec.eclipse.theming.ui/lastConfiguration=1612358094503
 /instance/com.genuitec.eclipse.theming.ui/newinstall=false
 /instance/com.genuitec.eclipse.theming.ui/showWelcomeDialog=false
 /instance/com.genuitec.eclipse.theming.ui/workbench.theme=Deep Black
@@ -2458,7 +2458,7 @@
 /instance/org.jkiss.dbeaver.core/resultset.presentation.active=spreadsheet
 /instance/org.jkiss.dbeaver.core/resultset.text.tab.size=2
 /instance/org.jkiss.dbeaver.core/sample.database.canceled=true
-/instance/org.jkiss.dbeaver.core/ui.auto.update.check.time=1611660570368
+/instance/org.jkiss.dbeaver.core/ui.auto.update.check.time=1612358104010
 /instance/org.jkiss.dbeaver.core/ui.render.boolean.style=TEXTBOX
 /instance/org.jkiss.dbeaver.erd.ui/erd.attr.styles=ICONS,TYPES,NULLABILITY,ENTITY_FQN
 /instance/org.nodeclipse.enide.editors.gradle/color_comment=199,221,12
